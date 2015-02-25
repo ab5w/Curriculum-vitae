@@ -2,21 +2,23 @@
 
 Craig Parker
 
-e: craig@ab5w.com  
+e: craig@ab5w.com
 w: [http://ab5w.com](http://ab5w.com/about)
 
 #### Overview
 
-Senior systems administrator with a passion for automation and devops culture.  
+Senior systems administrator with a passion for automation and devops culture.
 Strong skills in Linux, scripting (PHP and Bash), configuration management (puppet) and webhosting environments.
 
 #### Experience highlights
 
-* Deployed and managed a large scale infrastructure of over 1900 nodes with puppet and puppetdb.
+* Deployed and managed a large scale infrastructure of over 2000 nodes with puppet and puppetdb.
 * Provisioned and managed a 40 node hadoop cluster with Cloudera and puppet.
 * Automated the adding of servers to backups, puppet and monitoring.
 * Automated the deployment of virtual cPanel linux servers.
 * Creation of puppet manifests and modules for the post deployment configuration and management of hypervisors, cPanel servers (both customer servers and shared hosting servers) and complex hosting customers.
+* Standardisation of backups across 1600 cPanel servers with puppet/puppetdb.
+* Creation of PHP classes used for the day to day management and automation of hosts.
 
 #### Key skills
 
@@ -60,18 +62,18 @@ Strong skills in Linux, scripting (PHP and Bash), configuration management (pupp
 
 #### Career history
 
-October 2013 - Present  
+October 2013 - Present
 Senior Systems Administrator: [Paragon Internet Group](http://paragon.net.uk)
 
 * First point of contact for managed/complex hosting customers.
 * Troubleshooting/fixing of complex hosting issues.
 * Provisioning and configuration of servers to a customers requirements.
-* Automation of systems and infrastructure. 
+* Automation of systems and infrastructure.
 * Proactive monitoring of systems/on call rotation.
 * Training/mentoring of junior staff.
 
 
-September 2012 - October 2013  
+September 2012 - October 2013
 Systems Administrator: [Paragon Internet Group](http://paragon.net.uk)
 
 * Escalated point of contact for customer enquiries.
@@ -82,7 +84,7 @@ Systems Administrator: [Paragon Internet Group](http://paragon.net.uk)
 * Proactive monitoring of systems.
 
 
-August 2011 - September 2012  
+August 2011 - September 2012
 Technical Support: [Paragon Internet Group](http://paragon.net.uk)
 
 * First point of contact for customer enquiries.
@@ -91,7 +93,7 @@ Technical Support: [Paragon Internet Group](http://paragon.net.uk)
 * Dealing with billing issues and refunds.
 
 
-June 2010 to June 2011  
+June 2010 to June 2011
 ICT Apprentice Engineer: [tech-i IT consultancy](http://www.tech-i.co.uk)
 
 * Designed, implemented and maintained tech-i LAN services.
@@ -101,7 +103,7 @@ ICT Apprentice Engineer: [tech-i IT consultancy](http://www.tech-i.co.uk)
 * Web service application testing for myguide.
 
 
-December 2006 to August 2009  
+December 2006 to August 2009
 Customer Support and Logistics analyst: [Thames Water](http://www.thameswater.co.uk/)
 
 * Scanning of samples into Sample Manager.
@@ -113,11 +115,11 @@ Customer Support and Logistics analyst: [Thames Water](http://www.thameswater.co
 * Sorting and distributing deliveries to the analytical teams.
 
 
-March 2006 to  December 2006  
+March 2006 to  December 2006
 Inorganic chemistry analyst: [Thames Water](http://www.thameswater.co.uk/)
 
 * Operating the sampling equipment and monitoring/reporting results.
-* Testing water samples for: Turbidity, Colour, pH and Conductivity to conform to the Drinking Water Inspectorate regulations. 
+* Testing water samples for: Turbidity, Colour, pH and Conductivity to conform to the Drinking Water Inspectorate regulations.
 * Making up standards and calibration solutions following laboratory procedure.
 * Reporting results onto the sample manager system.
 * Calibrating analytical equipment.
@@ -126,10 +128,10 @@ Inorganic chemistry analyst: [Thames Water](http://www.thameswater.co.uk/)
 
 #### Qualifications
 
-2005 Maiden Erlegh Comprehensive School  
+2005 Maiden Erlegh Comprehensive School
 GCSE – English Language C
 
-2004 Chiltern Edge Comprehensive School  
+2004 Chiltern Edge Comprehensive School
 9 GCSEs
 
 #### Interests
@@ -138,6 +140,6 @@ Classic car restoration, photography, reading, podcasts, camping.
 
 #### Personal
 
-Date of Birth: 22/08/1988  
-Clean full driving licence  
+Date of Birth: 22/08/1988
+Clean full driving licence
 References available on request
