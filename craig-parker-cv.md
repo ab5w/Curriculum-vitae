@@ -3,7 +3,8 @@
 Craig Parker
 
 e: craig@ab5w.com
-w: [http://ab5w.com](http://ab5w.com/about)
+w: [ab5w.com](http://ab5w.com/about)
+g: [github.com/ab5w](https://github.com/ab5w)
 
 #### Overview
 
