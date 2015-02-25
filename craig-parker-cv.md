@@ -2,9 +2,9 @@
 
 Craig Parker
 
-e: craig@ab5w.com
-w: [ab5w.com](http://ab5w.com/about)
-g: [github.com/ab5w](https://github.com/ab5w)
+e: craig@ab5w.com  
+w: [ab5w.com](http://ab5w.com/about)  
+g: [github.com/ab5w](https://github.com/ab5w)  
 
 #### Overview
 
@@ -141,6 +141,6 @@ Classic car restoration, photography, reading, podcasts, camping.
 
 #### Personal
 
-Date of Birth: 22/08/1988
-Clean full driving licence
-References available on request
+Date of Birth: 22/08/1988  
+Clean full driving licence  
+References available on request  
