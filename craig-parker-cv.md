@@ -8,7 +8,7 @@ g: [github.com/ab5w](https://github.com/ab5w)
 
 #### Overview
 
-Senior systems administrator with a passion for automation and devops culture.
+Senior systems administrator with a passion for automation and devops culture.  
 Strong skills in Linux, scripting (PHP and Bash), configuration management (puppet) and webhosting environments.
 
 #### Experience highlights
@@ -18,7 +18,7 @@ Strong skills in Linux, scripting (PHP and Bash), configuration management (pupp
 * Automated the adding of servers to backups, puppet and monitoring.
 * Automated the deployment of virtual cPanel linux servers.
 * Creation of puppet manifests and modules for the post deployment configuration and management of hypervisors, cPanel servers (both customer servers and shared hosting servers) and complex hosting customers.
-* Standardisation of backups across 1600 cPanel servers with puppet/puppetdb.
+* Standardisation of backups across 1900 cPanel servers with puppet/puppetdb.
 * Creation of PHP classes used for the day to day management and automation of hosts.
 
 #### Key skills
@@ -129,10 +129,10 @@ Inorganic chemistry analyst: [Thames Water](http://www.thameswater.co.uk/)
 
 #### Qualifications
 
-2005 Maiden Erlegh Comprehensive School
+2005 Maiden Erlegh Comprehensive School  
 GCSE – English Language C
 
-2004 Chiltern Edge Comprehensive School
+2004 Chiltern Edge Comprehensive School  
 9 GCSEs
 
 #### Interests
