@@ -13,12 +13,12 @@ Strong skills in Linux, scripting (PHP and Bash), configuration management (pupp
 
 #### Experience highlights
 
-* Deployed and managed a large scale clustered infrastructure of over 2000 nodes with multi-master puppet, and puppetdb.
+* Deployed and managed a loadbalanced multi-master puppet infrastructure of over 2500 nodes.
 * Provisioned and managed a 40 node hadoop cluster with Cloudera and puppet.
 * Automated the adding of servers to backups, puppet and monitoring.
 * Automated the deployment of virtual cPanel linux servers.
 * Creation of puppet manifests and modules for the post deployment configuration and management of hypervisors, cPanel servers (both customer servers and shared hosting servers) and complex hosting customers.
-* Standardisation of backups across 1900 cPanel servers with puppet/puppetdb.
+* Standardisation of backups across 2000 cPanel servers with puppet/puppetdb.
 * Creation of PHP classes used for the day to day management and automation of hosts.
 
 #### Key skills
