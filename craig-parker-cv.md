@@ -35,7 +35,7 @@ Strong skills in Linux, scripting (PHP and Bash), configuration management (pupp
 
 * Strong skills with puppet to manage and configure physical and virtual servers.
 * Scripting in PHP and Bash for automation and systems administration tasks.
-* Writen various nagios checks in PHP and Bash.
+* Written various nagios checks in PHP and Bash.
 * Basic ruby from writing custom puppet facts.
 * Basic perl from forking nagios checks.
 
