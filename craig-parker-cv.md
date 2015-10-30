@@ -19,7 +19,7 @@ Strong skills in Linux, scripting (PHP and Bash), configuration management (pupp
 * Automated the deployment of virtual cPanel linux servers.
 * Creation of puppet manifests and modules for the post deployment configuration and management of hypervisors, cPanel servers (both customer servers and shared hosting servers) and complex hosting customers.
 * Standardisation of backups across 2000 cPanel servers with puppet/puppetdb.
-* Creation of PHP classes used for the day to day management and automation of hosts.
+* Creation of PHP classes used for the day to day management and automation of systems.
 
 #### Key skills
 
