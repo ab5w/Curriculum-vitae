@@ -42,7 +42,7 @@ Strong skills in Linux, scripting (PHP and Bash), configuration management (pupp
 ###### Virtualisation
 
 * Use of Xen and KVM for the provisioning of customer virtual servers.
-* Daily management of over 1700 virtual servers.
+* Daily management of over 2000 virtual servers.
 
 ###### Hardware
 
