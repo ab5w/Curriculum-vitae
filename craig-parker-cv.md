@@ -30,6 +30,9 @@ Strong skills in Linux, scripting (PHP and Bash), configuration management (pupp
 * Strong monitoring skills using Nagios.
 * Experience with high availability setups, using haproxy and MySQL replication.
 * Administration of hadoop (HDFS/HBase/MapReduce) using Cloudera.
+* Use of zfs for the management of backup servers.
+* Experience with the setup, configuration and management of FreeIPA for SSO/LDAP authentication on servers and web services.
+
 
 ###### Scripting and configuration management
 
