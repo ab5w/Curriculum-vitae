@@ -13,13 +13,13 @@ Strong skills in Linux, scripting (PHP and Bash), configuration management (pupp
 
 #### Experience highlights
 
-* Deployed and managed a loadbalanced multi-master puppet infrastructure of over 2500 nodes.
+* Deployed and managed a loadbalanced multi-master puppet infrastructure.
 * Provisioned and managed a 40 node hadoop cluster with Cloudera and puppet.
 * Automated the adding of servers to backups, puppet and monitoring.
 * Automated the deployment of virtual cPanel linux servers.
 * Creation of puppet manifests and modules for the post deployment configuration and management of hypervisors, cPanel servers (both customer servers and shared hosting servers) and complex hosting customers.
-* Standardisation of backups across 2000 cPanel servers with puppet/puppetdb.
-* Creation of PHP classes used for the day to day management and automation of systems.
+* Standardisation and automated installation of backups on all managed cPanel servers.
+* Creation of PHP classes and scripts used for the day to day management and automation of systems and infrastructure.
 
 #### Key skills
 
@@ -29,7 +29,7 @@ Strong skills in Linux, scripting (PHP and Bash), configuration management (pupp
 * Experience with the setup, configuration and management of Apache/Nginx, MySQL and PHP.
 * Strong monitoring skills using Nagios.
 * Experience with high availability setups, using haproxy and MySQL replication.
-* Administration of hadoop (HDFS/HBase/MapReduce) using Cloudera and ambari/Hortonworks.
+* Administration of hadoop (HDFS/HBase/MapReduce) using Cloudera and Ambari/Hortonworks.
 * Use of zfs for the management of backup servers.
 * Experience with the setup, configuration and management of FreeIPA for SSO/LDAP authentication on servers and web services.
 
@@ -44,7 +44,7 @@ Strong skills in Linux, scripting (PHP and Bash), configuration management (pupp
 ###### Virtualisation
 
 * Use of Xen and KVM for the provisioning of customer virtual servers.
-* Daily management of over 2000 virtual servers.
+* Daily management of over 3000 virtual servers.
 
 ###### Hardware
 
@@ -68,11 +68,11 @@ Strong skills in Linux, scripting (PHP and Bash), configuration management (pupp
 October 2013 - Present
 Senior Systems Administrator: [Paragon Internet Group](http://paragon.net.uk)
 
-* First point of contact for managed/complex hosting customers.
-* Troubleshooting/fixing of complex hosting issues.
-* Provisioning and configuration of servers to a customers requirements.
 * Automation of systems and infrastructure.
 * Proactive monitoring of systems/on call rotation.
+* Escalation contact for managed/complex hosting customers.
+* Troubleshooting/fixing of complex hosting issues.
+* Provisioning and configuration of servers to internal/external customer requirements.
 * Training/mentoring of junior staff.
 
 
@@ -139,7 +139,7 @@ GCSE – English Language C
 
 #### Interests
 
-Classic car restoration, photography, reading, podcasts, camping.
+Classic car restoration, photography, reading, camping.
 
 #### Personal
 
