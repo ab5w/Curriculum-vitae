@@ -69,7 +69,7 @@ Strong skills in Linux, scripting (PHP and Bash), configuration management (pupp
 April 2017 - Present
 Senior Systems Administrator: [GoDaddy](https://uk.godaddy.com/)
 
-* Automation of server deployment/bare metal provisioning, and network changes.
+* Automation of server deployment/configuration, bare metal provisioning, and network changes.
 * Escalation contact for 3rd line/internal customers.
 * Development and management of internal server backup solutions.
 * Creation of tools to allow easier management of systems.
