@@ -20,6 +20,7 @@ Strong skills in Linux, scripting (PHP and Bash), configuration management (pupp
 * Creation of puppet manifests and modules for the post deployment configuration and management of hypervisors, cPanel servers (both customer servers and shared hosting servers) and complex hosting customers.
 * Standardisation and automated installation of backups on all managed cPanel servers.
 * Creation of PHP classes and scripts used for the day to day management and automation of systems and infrastructure.
+* Developed tools to allow the management of virtual servers (suspend,power state,resize) from within the servers racktables page.
 
 #### Key skills
 
@@ -31,7 +32,7 @@ Strong skills in Linux, scripting (PHP and Bash), configuration management (pupp
 * Experience with high availability setups, using haproxy and MySQL replication.
 * Administration of hadoop (HDFS/HBase/MapReduce) using Cloudera and Ambari/Hortonworks.
 * Use of zfs for the management of backup servers.
-* Experience with the setup, configuration and management of FreeIPA for SSO/LDAP authentication on servers and web services.
+* Experience with the setup, configuration and management of load balanced multi master FreeIPA for SSO/LDAP authentication on servers and web services.
 
 ###### Scripting and configuration management
 
@@ -65,7 +66,15 @@ Strong skills in Linux, scripting (PHP and Bash), configuration management (pupp
 
 #### Career history
 
-October 2013 - Present
+April 2017 - Present
+Senior Systems Administrator: [GoDaddy](https://uk.godaddy.com/)
+
+* Automation of server deployment/bare metal provisioning, and network changes.
+* Escalation contact for 3rd line/internal customers.
+* Development and management of internal server backup solutions.
+* Creation of tools to allow easier management of systems.
+
+October 2013 - April 2017
 Senior Systems Administrator: [Paragon Internet Group](http://paragon.net.uk)
 
 * Automation of systems and infrastructure.
