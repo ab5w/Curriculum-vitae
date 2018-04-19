@@ -149,9 +149,3 @@ GCSE – English Language C
 #### Interests
 
 Classic car restoration, photography, reading, camping.
-
-#### Personal
-
-Date of Birth: 22/08/1988  
-Clean full driving licence  
-References available on request  
