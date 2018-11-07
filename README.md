@@ -19,8 +19,9 @@ Strong skills in Linux, scripting (PHP and Bash), configuration management (pupp
 * Automated the deployment of virtual cPanel linux servers.
 * Creation of puppet manifests and modules for the post deployment configuration and management of hypervisors, cPanel servers (both customer servers and shared hosting servers) and complex hosting customers.
 * Standardisation and automated installation of backups on all managed cPanel servers.
-* Creation of PHP classes and scripts used for the day to day management and automation of systems and infrastructure.
-* Developed tools to allow the management of virtual servers (suspend,power state,resize) from within the servers racktables page.
+* Creation of PHP classes and scripts used for the day to day management and automation of systems and infrastructure including automated migration of virtual servers between hosts.
+* Developed tools to allow the management of virtual servers (suspend,power state,resize,migration) from within the servers racktables page.
+* Deployed and managed a HA syslog cluster with graylog/elasticsearch, logging in excess of 1 billion lines a day.
 
 #### Key skills
 
@@ -29,8 +30,9 @@ Strong skills in Linux, scripting (PHP and Bash), configuration management (pupp
 * Daily use of CentOS for the installation and management of customer servers, shared hosting servers, and hypervisors.
 * Experience with the setup, configuration and management of Apache/Nginx, MySQL and PHP.
 * Strong monitoring skills using Nagios.
-* Experience with high availability setups, using haproxy and MySQL replication.
+* Experience with high availability setups using haproxy, keepalived, and MySQL replication.
 * Administration of hadoop (HDFS/HBase/MapReduce) using Cloudera and Ambari/Hortonworks.
+* Experience with HA syslogging, using graylog/elasticsearch.
 * Use of zfs for the management of backup servers.
 * Experience with the setup, configuration and management of load balanced multi master FreeIPA for SSO/LDAP authentication on servers and web services.
 
