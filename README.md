@@ -69,7 +69,7 @@ Strong skills in Linux, scripting (PHP and Bash), configuration management (pupp
 #### Career history
 
 April 2017 - Present
-Senior Systems Administrator: [GoDaddy](https://uk.godaddy.com/)
+Site Reliability Engineer: [GoDaddy](https://uk.godaddy.com/)
 
 * Automation of server deployment/configuration, bare metal provisioning, and network changes.
 * Escalation contact for 3rd line/internal customers.
